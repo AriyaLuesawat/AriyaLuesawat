@@ -1,4 +1,4 @@
-# Hi, I'm Ariya Luesawat 👋
+#I'm Ariya Luesawat 
 
 I am an Artificial Intelligence and System Engineering student at Prince of Songkla University, Phuket Campus. I enjoy building practical systems that connect AI models with usable applications, secure APIs, and reliable infrastructure.
 
