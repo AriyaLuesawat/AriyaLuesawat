@@ -41,9 +41,7 @@ A security-focused, read-only data pipeline for the Webull Thailand OpenAPI.
 ## Education and certifications
 
 - B.Eng. in Artificial Intelligence and System Engineering, Prince of Songkla University
-- Tencent Cloud Practitioner
 - MikroTik Certified Network Associate (MTCNA)
-- AWS Thaksa AI
 
 ## Currently learning
 
