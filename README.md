@@ -1,4 +1,4 @@
-#I'm Ariya Luesawat 
+# Hi, I'm Ariya Luesawat
 
 Artificial Intelligence and System Engineering student at Prince of Songkla University, Phuket Campus.
 
@@ -17,7 +17,7 @@ Turns Thai bank-slip images into structured expense records and visual insights.
 
 `Python` `FastAPI` `EasyOCR` `PyThaiNLP` `scikit-learn` `OpenCV` `Next.js` `TypeScript`
 
-### [Webull Portfolio Monitor](https://github.com/AriyaLuesawat/webull-portfolio-monitor)
+### [Webull Portfolio Monitor](https://github.com/AriyaLuesawat/Project-webull-portfolio-monitor)
 
 A security-focused, read-only data pipeline for the Webull Thailand OpenAPI.
 
@@ -27,6 +27,19 @@ A security-focused, read-only data pipeline for the Webull Thailand OpenAPI.
 - Includes a public-safety scanner, unit tests, and GitHub Actions CI
 
 `Python` `REST API` `Security` `Automation` `GitHub Actions`
+
+### [Project-EcoLog](https://github.com/AriyaLuesawat/Project-EcoLog)
+
+A collaborative full-stack application for tracking personal environmental impact and real-time air quality.
+
+Developed with [Nawxtz](https://github.com/Nawxtz).
+
+- Searches worldwide air-quality data, including AQI, PM2.5, PM10, NO2, and ozone
+- Saves favourite cities and displays live AQI status on a personal dashboard
+- Tracks eco-friendly activities with full create, edit, and delete workflows
+- Visualizes estimated CO2 savings over the latest 30 days
+
+`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `SQLite` `Zod` `Recharts`
 
 ## Technical skills
 
