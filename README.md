@@ -4,49 +4,21 @@ Artificial Intelligence and System Engineering student at Prince of Songkla Univ
 
 Based in Thailand · Interested in AI engineering, computer vision, NLP, cloud infrastructure, and computer networks
 
-## Featured projects
+## Projects
 
-### [SaiJai — AI-assisted expense tracker](https://github.com/AriyaLuesawat/saijai)
+| Repository | What it contains | Main tools |
+| --- | --- | --- |
+| [SaiJai Analytics](https://github.com/AriyaLuesawat/Project-saijai) | Expense analytics from Thai bank slips: OCR, category prediction, and an interactive dashboard. | Python, FastAPI, EasyOCR, scikit-learn, Next.js |
+| [Project-EcoLog](https://github.com/AriyaLuesawat/Project-EcoLog) | Air-quality monitoring and personal CO₂ impact tracking, developed with [Nawxtz](https://github.com/Nawxtz). | Next.js, TypeScript, Prisma, SQLite |
+| [Webull Portfolio Monitor](https://github.com/AriyaLuesawat/Project-webull-portfolio-monitor) | A read-only portfolio monitor for the Webull Thailand OpenAPI. | Python, REST API, automation |
+| [Thailand Road Accident Data](https://github.com/AriyaLuesawat/Project-thailand-road-accident-data) | Thai road-accident datasets from 2019–2025, English translations, cleaned workbooks, and validation scripts. | Python, CSV, Excel |
 
-Turns Thai bank-slip images into structured expense records and visual insights.
+## Coursework and notes
 
-- Preprocesses images with OpenCV and reads Thai and English text with EasyOCR
-- Extracts transaction details and classifies Thai memos with TF-IDF and Multinomial Naive Bayes
-- Provides a FastAPI backend and a responsive Next.js dashboard
-- Shows category confidence, history search, filters, and spending charts
-
-`Python` `FastAPI` `EasyOCR` `PyThaiNLP` `scikit-learn` `OpenCV` `Next.js` `TypeScript`
-
-### [Webull Portfolio Monitor](https://github.com/AriyaLuesawat/Project-webull-portfolio-monitor)
-
-A security-focused, read-only data pipeline for the Webull Thailand OpenAPI.
-
-- Reads balances, positions, and optional market quotes without executing trades
-- Keeps credentials, tokens, account snapshots, watchlists, and logs outside Git
-- Uses market-aware scheduling and a file lock to prevent overlapping refreshes
-- Includes a public-safety scanner, unit tests, and GitHub Actions CI
-
-`Python` `REST API` `Security` `Automation` `GitHub Actions`
-
-### [Project-EcoLog](https://github.com/AriyaLuesawat/Project-EcoLog)
-
-A collaborative full-stack application for tracking personal environmental impact and real-time air quality.
-
-Developed with [Nawxtz](https://github.com/Nawxtz).
-
-- Searches worldwide air-quality data, including AQI, PM2.5, PM10, NO2, and ozone
-- Saves favourite cities and displays live AQI status on a personal dashboard
-- Tracks eco-friendly activities with full create, edit, and delete workflows
-- Visualizes estimated CO2 savings over the latest 30 days
-
-`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `SQLite` `Zod` `Recharts`
-
-## Course labs
-
-My [course lab notebooks](https://github.com/AriyaLuesawat/3rd-courses-lab) cover two subjects:
-
-- **HCD-302 Creating Explainable AI (Labs 1–5):** leak-free pipelines, class imbalance and bias, dimensionality reduction, cross-validation, and transparent models.
-- **MCS-201 Hardware Acceleration (Labs 0–4):** performance measurement, CPU scaling, GPU bandwidth, CUDA kernels, and kernel optimisation.
+| Repository | What it contains |
+| --- | --- |
+| [Course Labs](https://github.com/AriyaLuesawat/3rd-courses-lab) | HCD-302 Creating Explainable AI Labs 1–5 and MCS-201 Hardware Acceleration Labs 0–4. |
+| [Java Parallel Programming Notes](https://github.com/AriyaLuesawat/java-parallel-programming-notes) | Thai-language notes and independent Java examples for Fork/Join, parallel streams, and CompletableFuture. |
 
 ## Technical skills
 
