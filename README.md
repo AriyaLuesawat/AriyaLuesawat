@@ -41,6 +41,13 @@ Developed with [Nawxtz](https://github.com/Nawxtz).
 
 `Next.js` `TypeScript` `Tailwind CSS` `Prisma` `SQLite` `Zod` `Recharts`
 
+## Course labs
+
+My [course lab notebooks](https://github.com/AriyaLuesawat/3rd-courses-lab) cover two subjects:
+
+- **HCD-302 Creating Explainable AI (Labs 1–5):** leak-free pipelines, class imbalance and bias, dimensionality reduction, cross-validation, and transparent models.
+- **MCS-201 Hardware Acceleration (Labs 0–4):** performance measurement, CPU scaling, GPU bandwidth, CUDA kernels, and kernel optimisation.
+
 ## Technical skills
 
 | Area | Technologies |
