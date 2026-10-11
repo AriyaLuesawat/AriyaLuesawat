@@ -10,6 +10,7 @@ Based in Thailand · Interested in AI engineering, computer vision, NLP, cloud i
 | --- | --- | --- |
 | [SaiJai Analytics](https://github.com/AriyaLuesawat/Project-saijai) | Expense analytics from Thai bank slips: OCR, category prediction, and an interactive dashboard. | Python, FastAPI, EasyOCR, scikit-learn, Next.js |
 | [Project-EcoLog](https://github.com/AriyaLuesawat/Project-EcoLog) | Air-quality monitoring and personal CO₂ impact tracking, developed with [Nawxtz](https://github.com/Nawxtz). | Next.js, TypeScript, Prisma, SQLite |
+| [Hand Tracking Air Canvas](https://github.com/AriyaLuesawat/Hand-Tracking-Air-Canvas) | Group project: draw in a browser using webcam hand gestures; includes the software requirements document. | JavaScript, HTML Canvas, MediaPipe Hands |
 | [Webull Portfolio Monitor](https://github.com/AriyaLuesawat/Project-webull-portfolio-monitor) | A read-only portfolio monitor for the Webull Thailand OpenAPI. | Python, REST API, automation |
 | [Thailand Road Accident Data](https://github.com/AriyaLuesawat/Project-thailand-road-accident-data) | Thai road-accident datasets from 2019–2025, English translations, cleaned workbooks, and validation scripts. | Python, CSV, Excel |
 
