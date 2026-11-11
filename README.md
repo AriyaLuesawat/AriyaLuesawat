@@ -14,6 +14,12 @@ Based in Thailand · Interested in AI engineering, computer vision, NLP, cloud i
 | [Webull Portfolio Monitor](https://github.com/AriyaLuesawat/Project-webull-portfolio-monitor) | A read-only portfolio monitor for the Webull Thailand OpenAPI. | Python, REST API, automation |
 | [Thailand Road Accident Data](https://github.com/AriyaLuesawat/Project-thailand-road-accident-data) | Thai road-accident datasets from 2019–2025, English translations, cleaned workbooks, and validation scripts. | Python, CSV, Excel |
 
+## Research
+
+| Project | What it is | Main tools |
+| --- | --- | --- |
+| Phuket Native: rain, flooding and traffic in Phuket | An island-wide traffic simulation of Phuket (4,439 km of roads) that estimates how rain and standing water slow traffic at different times of day. Traffic volumes are calibrated to 71 count points; a 30 m flood model is coupled to the traffic model so that water lowers road speed instead of closing roads. It covers 180 scenario runs, a sensitivity analysis, and a 2D/3D web viewer. The flood model did not pass its check against reported flood locations, so results are for comparing scenarios, not for forecasting. Manuscript draft in Thai; repository private until submission. | Python, SUMO (mesoscopic, TraCI), rasterio, NumPy, deck.gl |
+
 ## Coursework and notes
 
 | Repository | What it contains |
@@ -27,6 +33,7 @@ Based in Thailand · Interested in AI engineering, computer vision, NLP, cloud i
 | --- | --- |
 | Programming | Python, JavaScript, TypeScript, SQL, C/C++, HTML, CSS |
 | AI and data | TensorFlow/Keras, scikit-learn, Pandas, NLP, OCR, Computer Vision, MediaPipe |
+| Simulation and geospatial | SUMO traffic simulation, 2D flood modelling on DEMs, rasterio, OpenStreetMap data, deck.gl |
 | Backend and web | FastAPI, Next.js, React, REST APIs |
 | Cloud and systems | Tencent Cloud, AWS, Google Cloud AI infrastructure, Linux |
 | Networks and tools | Computer Networking, MikroTik RouterOS, Git, GitHub |
