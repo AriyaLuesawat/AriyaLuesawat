@@ -18,7 +18,7 @@ Based in Thailand · Interested in AI engineering, computer vision, NLP, cloud i
 
 | Project | What it is | Main tools |
 | --- | --- | --- |
-| Phuket Native: rain, flooding and traffic in Phuket | An island-wide traffic simulation of Phuket (4,439 km of roads) that estimates how rain and standing water slow traffic at different times of day. Traffic volumes are calibrated to 71 count points; a 30 m flood model is coupled to the traffic model so that water lowers road speed instead of closing roads. It covers 180 scenario runs, a sensitivity analysis, and a 2D/3D web viewer. The flood model did not pass its check against reported flood locations, so results are for comparing scenarios, not for forecasting. Manuscript draft in Thai; repository private until submission. | Python, SUMO (mesoscopic, TraCI), rasterio, NumPy, deck.gl |
+| [Phuket Native: rain, flooding and traffic in Phuket](https://github.com/AriyaLuesawat/phuket-traffic-flood-sim) | An island-wide traffic simulation of Phuket (4,439 km of roads) that estimates how rain and standing water slow traffic at different times of day. Traffic volumes are calibrated to 71 count points; a 30 m flood model is coupled to the traffic model so that water lowers road speed instead of closing roads. It covers 180 scenario runs, a sensitivity analysis, and a 2D/3D web viewer. The flood model did not pass its check against reported flood locations, so results are for comparing scenarios, not for forecasting. Includes the scripts, method notes for every step, and a manuscript draft in Thai. | Python, SUMO (mesoscopic, TraCI), rasterio, NumPy, deck.gl |
 
 ## Coursework and notes
 
