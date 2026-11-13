@@ -15,7 +15,7 @@ My work covers AI engineering, computer vision, NLP, data processing, simulation
 ### Phuket Native: Rain, Flooding, and Traffic in Phuket
 
 <a href="https://ariyaluesawat.github.io/phuket-traffic-flood-sim/">
-  <img src="images/phuket-native-3d.jpg" alt="Phuket Native 3D web viewer showing simulated road speeds, and buildings over Phuket Town during the morning peak" width="100%" />
+  <img src="images/phuket-native-3d.jpg" alt="Phuket Native 3D web viewer showing simulated road speeds and buildings over Phuket Town on a dry morning peak" width="100%" />
 </a>
 
 An island-wide traffic simulation of Phuket covering 4,439 km of roads. It estimates how rainfall and standing water reduce traffic speeds at different times of day.
