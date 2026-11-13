@@ -15,7 +15,7 @@ My work covers AI engineering, computer vision, NLP, data processing, simulation
 ### Phuket Native: Rain, Flooding, and Traffic in Phuket
 
 <a href="https://ariyaluesawat.github.io/phuket-traffic-flood-sim/">
-  <img src="https://raw.githubusercontent.com/AriyaLuesawat/phuket-traffic-flood-sim/main/docs/img/fig6-viewer.png" alt="Phuket Native web viewer showing simulated road speeds in Phuket Town during heavy rain" width="100%" />
+  <img src="images/phuket-native-3d.jpg" alt="Phuket Native 3D web viewer showing simulated road speeds, buildings, and rainfall over Phuket Town during the morning peak" width="100%" />
 </a>
 
 An island-wide traffic simulation of Phuket covering 4,439 km of roads. It estimates how rainfall and standing water reduce traffic speeds at different times of day.
@@ -38,7 +38,6 @@ An island-wide traffic simulation of Phuket covering 4,439 km of roads. It estim
 | [Hand Tracking Air Canvas](https://github.com/AriyaLuesawat/Hand-Tracking-Air-Canvas) | A browser drawing application controlled by webcam hand gestures. Group project, with a software requirements specification. | JavaScript, MediaPipe Hands, HTML Canvas | [Live](https://ariyaluesawat.github.io/Hand-Tracking-Air-Canvas/) |
 | [Thailand Road Accident Data](https://github.com/AriyaLuesawat/Project-thailand-road-accident-data) | Thai road-accident records for 2019–2025, translated into English with validation scripts, and a road-safety dashboard. | Python, Excel, Chart.js, Leaflet | [Dashboard](https://ariyaluesawat.github.io/Project-thailand-road-accident-data/Final%20Work/final.html) |
 | [EcoLog](https://github.com/AriyaLuesawat/Project-EcoLog) | Air-quality monitoring and personal CO₂ impact tracking, developed with [Nawxtz](https://github.com/Nawxtz). | Next.js, TypeScript, Prisma, SQLite | — |
-| [Webull Portfolio Monitor](https://github.com/AriyaLuesawat/Project-webull-portfolio-monitor) | A read-only, security-focused portfolio monitor for the Webull Thailand OpenAPI. | Python, REST API | — |
 
 ---
 
